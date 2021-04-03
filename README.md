@@ -1,5 +1,5 @@
 # Conky-Style-Fedora
-Cokny simples no estilo fedora
+COnky simples no estilo fedora
 # conky-style-fedora
 Cokny simples no estilo fedora
 IN conky necessary intalled VNSTAT and HDDTEMP
