@@ -1,4 +1,4 @@
-# conky-style-fedora
+# Conky-Style-Fedora
 Cokny simples no estilo fedora
 # conky-style-fedora
 Cokny simples no estilo fedora
